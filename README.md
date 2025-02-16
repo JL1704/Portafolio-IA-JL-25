@@ -5,6 +5,8 @@
 - [Act 2: Realizar el Cuestionario VARK](Actividades/Act2_Prueba_VARK.pdf)
 - [Act 3: Python for Data Science IBM](Actividades/Act3_Certificado_PythonC_2132939.pdf)
 - [Act 4: Cuenta en Github](https://github.com/JL1704)
+- [Act 5: Portafolio de evidencias en linea](https://github.com/JL1704/Portafolio-IA-JL-25)
+- [Act 6: Determinantes de Matrices](Actividades/Act6_Determinantes_de_Matrices.pdf)
 
 ## Certificados
 
