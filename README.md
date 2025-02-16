@@ -7,6 +7,7 @@
 - [Act 4: Cuenta en Github](https://github.com/JL1704)
 - [Act 5: Portafolio de evidencias en linea](https://github.com/JL1704/Portafolio-IA-JL-25)
 - [Act 6: Determinantes de Matrices](Actividades/Act6_Determinantes_de_Matrices.pdf)
+- [Act 7: Laboratorio de Repaso de Probabilidad y Estadística](Actividades/Act7_LabProbyEst_2132939.pdf)
 
 ## Certificados
 
