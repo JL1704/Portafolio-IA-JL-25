@@ -15,3 +15,4 @@
 - [Cert 2: Fundamentos de Python](Certificados/Certificado_python_2132939.pdf)
 - [Cert 3: Introducción al Aprendizaje Automático](Certificados/Certificado_Into_To_Machine_Learning_2132939.pdf)
 - [Cert 4: Pandas](Certificados/Certificado_Pandas_2132939.pdf)
+- [Cert 5: Aprendizaje Automático Intermedio](Certificados/Certificado_Into_To_Machine_Learning_2132939.pdf)
