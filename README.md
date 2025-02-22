@@ -8,11 +8,11 @@
 - [Act 5: Portafolio de evidencias en linea](https://github.com/JL1704/Portafolio-IA-JL-25)
 - [Act 6: Determinantes de Matrices](Actividades/Act6_Determinantes_de_Matrices.pdf)
 - [Act 7: Laboratorio de Repaso de Probabilidad y Estadística](Actividades/Act7_LabProbyEst_2132939.pdf)
+- [Act 8: Laboratorio de Algebra Lineal ](Actividades/Act8_Laboratorio_de_Algebra_Lineal_2132939.pdf)
 
 ## Certificados
-
 - [Cert 1: Introducción a la Programación](Certificados/Certificado_into_to_programming_2132939.pdf)
 - [Cert 2: Fundamentos de Python](Certificados/Certificado_python_2132939.pdf)
 - [Cert 3: Introducción al Aprendizaje Automático](Certificados/Certificado_Into_To_Machine_Learning_2132939.pdf)
 - [Cert 4: Pandas](Certificados/Certificado_Pandas_2132939.pdf)
-- [Cert 5: Aprendizaje Automático Intermedio](Certificados/Certificado_Into_To_Machine_Learning_2132939.pdf)
+- [Cert 5: Aprendizaje Automático Intermedio](Certificados/Certificado_Intermediate_Machine_Learning_2132939.pdf)
