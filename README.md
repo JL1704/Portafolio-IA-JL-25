@@ -16,3 +16,4 @@
 - [Cert 3: Introducción al Aprendizaje Automático](Certificados/Certificado_Into_To_Machine_Learning_2132939.pdf)
 - [Cert 4: Pandas](Certificados/Certificado_Pandas_2132939.pdf)
 - [Cert 5: Aprendizaje Automático Intermedio](Certificados/Certificado_Intermediate_Machine_Learning_2132939.pdf)
+- [Cert 6: Visualización de Datos](Certificados/Certificado_Data_Visualization_2132939.pdf)
