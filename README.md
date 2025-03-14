@@ -18,3 +18,4 @@
 - [Cert 5: Aprendizaje Automático Intermedio](Certificados/Certificado_Intermediate_Machine_Learning_2132939.pdf)
 - [Cert 6: Visualización de Datos](Certificados/Certificado_Data_Visualization_2132939.pdf)
 - [Cert 7: Ingeniería de Características](Certificados/Certificado_Feature_Engineering_2132939.pdf)
+- [Cert 8: Introducción a SQL](Certificados/Certificado_Into_to_SQL_2132939.pdf)
