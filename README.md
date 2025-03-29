@@ -20,4 +20,4 @@
 - [Cert 7: Ingeniería de Características](Certificados/Certificado_Feature_Engineering_2132939.pdf)
 - [Cert 8: Introducción a SQL](Certificados/Certificado_Into_to_SQL_2132939.pdf)
 - [Cert 9: SQL Avanzado](Certificados/Certificado_Advanced_SQL_2132939.pdf)
-- [Cert 10: Introducción al Aprendizaje Profundo](Certificados/Certificado_Into_To_Deep_Learning_2132939)
+- [Cert 10: Introducción al Aprendizaje Profundo](Certificados/Certificado_Into_To_Deep_Learning_2132939.pdf)
