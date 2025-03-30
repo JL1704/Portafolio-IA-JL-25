@@ -31,10 +31,6 @@ y = dataframe['clase'].values
 scaler = StandardScaler()
 X = scaler.fit_transform(X)
 
-#X = np.array(dataframe.drop(['clase'], axis=1))
-#y = np.array(dataframe['clase'])
-#X.shape
-
 # Entrenar modelo con iteraciones
 model = linear_model.LogisticRegression(max_iter=1000)
 model.fit(X, y)

@@ -60,6 +60,14 @@ print("Mean squared error:%.2f" % mean_squared_error(y_train, y_pred))
 # Puntaje de Varianza. El mejor puntaje es un 1.0
 print('Variance score:%.2f' % r2_score(y_train, y_pred))
 
+plt.scatter(X_train[:,0], y_train,  c=asignar, s=tamanios[0])
+plt.plot(X_train[:,0], y_pred, color='red', linewidth=3)
+
+plt.xlabel('Cantidad de Palabras')
+plt.ylabel('Compartido en Redes')
+plt.title('Regresión Lineal')
+
+plt.show()
 
 #Vamos a comprobar:
 # Quiero predecir cuántos "Shares" voy a obtener por un artículo con 2.000 palabras,
