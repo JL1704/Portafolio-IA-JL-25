@@ -12,6 +12,9 @@
 - [Act 9: Programando Regresión Lineal en Python](RegresionLineal/RegresionLineal.pdf)
 - [Act 10: Programando Regresión Lineal Múltiple en Python](RegresionLinealMultiple/RegresionLinealMultiple.pdf)
 - [Act 11: Programando Regresión Logística en Python](RegresionLogistica/RegresionLogisitca.pdf)
+- [Act 12: Programando Arbol de Decisión en Python](ArbolDecision/ArbolDecision.pdf)
+- [Act 13: Programando Random Forest en Python](RandomForest/RandomForest.pdf)
+- [Act 14: Programando K-Nearest-Neighbor en Python](K-Nearest-Neighbor/N-Nearest-Neighbor.pdf)
 
 ## Certificados
 - [Cert 1: Introducción a la Programación](Certificados/Certificado_into_to_programming_2132939.pdf)
