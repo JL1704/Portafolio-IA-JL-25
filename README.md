@@ -28,3 +28,4 @@
 - [Cert 9: SQL Avanzado](Certificados/Certificado_Advanced_SQL_2132939.pdf)
 - [Cert 10: Introducción al Aprendizaje Profundo](Certificados/Certificado_Into_To_Deep_Learning_2132939.pdf)
 - [Cert 11: Visión Computacional](Certificados/Certificado_ComputerVision_2132939.pdf)
+- [Cert 12: Series de Tiempo](Certificados/Certificado_Time_Series_2132939.pdf)
