@@ -30,3 +30,4 @@
 - [Cert 11: Visión Computacional](Certificados/Certificado_ComputerVision_2132939.pdf)
 - [Cert 12: Series de Tiempo](Certificados/Certificado_Time_Series_2132939.pdf)
 - [Cert 13: Series de Tiempo](Certificados/Certificado_Data_Cleaning_2132939.pdf)
+- [Cert 14: Introducción a la Ética en Inteligencia Artificial](Certificados/Certificado_Into_to_AI_Ethics_2132939.pdf)
