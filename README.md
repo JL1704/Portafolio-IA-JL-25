@@ -32,3 +32,4 @@
 - [Cert 13: Series de Tiempo](Certificados/Certificado_Data_Cleaning_2132939.pdf)
 - [Cert 14: Introducción a la Ética en Inteligencia Artificial](Certificados/Certificado_Into_to_AI_Ethics_2132939.pdf)
 - [Cert 15: Análisis Geoespacial](Certificados/Certificado_Geospatial_Analysis_2132939.pdf)
+- [Cert 16: Explicabilidad el Aprendizaje Automático](Certificados/Certificado_Machine_Learning_Explainability_2132939.pdf)
